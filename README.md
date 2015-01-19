@@ -1,2 +1,2 @@
 # litesol
-The official website for Litesol COnsultancy Limited
+The official website for Litesol Consultancy Limited
