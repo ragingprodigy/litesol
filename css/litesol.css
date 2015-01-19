@@ -1,0 +1,36 @@
+.mbanner { background-color: #FFF; background-image: url(../img/bg/8.png);}
+.row-nav { margin-top: 0; }
+img.logo { display: block; margin: 10px auto; }
+.rightinfo, .socialtitle { color: #666; }
+.rightinfo { padding-right: 10px; }
+
+
+/**
+*	COlours
+*/
+
+.navy { color: navy; }
+
+@media (max-width: 979px) {
+	.btn-navbar { top: 8px; background-color: #0A0A0A; color: #FCFCFC; right: 20px; }
+}
+
+@media (max-width: 767px) {
+	#social-menu { float: none; display: block; margin: 10px auto; text-align: center; }
+	.rightinfo { text-align: center; padding-right: 0; float: none; margin-top: 10px; }
+}
+
+.footerdark {background: #000031;}
+
+.navbar .nav>li>a:focus, .navbar .nav>li>a:hover {background-color: #000080;}
+.ll { padding:0.5em; background: #FFF; border-radius: 1em; font-weight: bold;}
+.navyBg{ background: navy; color: #FFF;}
+
+.timelineMinor dt a.open {color: navy;}
+.timelineEvent p { text-align: justify; }
+.timelineMinor dd {width: 90%;}
+.faqstitle { color: navy;}
+dd ul, .mList ul { list-style-type: square; }
+.mList ul { margin-left: 2em; }
+dd ul > li { text-align: justify; }
+dd h4 {color: #34DDFF; }

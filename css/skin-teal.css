@@ -1,0 +1,64 @@
+@media screen and (max-width:800px) {
+	.tinynav {		
+		background:#34DDFF;		
+	}	
+}
+body.boxed div.body {
+	
+}
+.testimonial-name, .service-box.black .circleicon i, .service-box.featured .circleicon i, .service-box:hover i, .footerlogo47, .primarycolor, a, a:hover {
+	color:#34DDFF;
+}
+.cameraContents .camera_caption h1, .sliderlink, .popular .vuzz-button.buttonprice, .popular .vuzz-button, .popular .vuzz-pricing-per, .popular .vuzz-pricing-cost, .captionicons, a.tagcloud:hover,.tagcloud a:hover, .service-box.featured , .service-box:hover, #skill i, article .day, .totop, .totop:hover, .primarybg {
+	background:#34DDFF;
+}
+.navbar .nav>li>a:focus,.navbar .nav>li>a:hover,.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus {	
+	background-color:#34DDFF;
+}
+.navbar .nav li.dropdown.open>.dropdown-toggle,.navbar .nav li.dropdown.active>.dropdown-toggle,.navbar .nav li.dropdown.open.active>.dropdown-toggle {
+	background-color:#34DDFF;	
+}
+#search a {	
+	background:#34DDFF url(../img/part-btn-search.png) no-repeat center center;
+}
+.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-submenu:hover>a,.dropdown-submenu:focus>a {	
+	background-color:#34DDFF;
+}
+.footerdark h1, .stressborder {	
+	border-bottom:1px solid #34DDFF;
+}
+.ca-menu li:hover .fontawesome-icon.circle-white,
+.grey-box-icon.active .fontawesome-icon.circle-white ,
+.grey-box-icon:hover .fontawesome-icon.circle-white,.grey-box-icon.active .fontawesome-icon.circle-white {
+	background-color:#34DDFF;	
+}
+a.prev,a.next {
+	background:url(../img/carousel_arrows.png) no-repeat #34DDFF;
+}
+a.next {
+	background-position:-22px 0
+}
+.btn-primary {
+	background-color:#34DDFF;
+}
+.panel,.panel1 {
+border-left:8px solid #34DDFF;
+}
+#filter ul li .selected {
+color: #34DDFF !Important;
+}
+.vuzz-pricing-table>div.popular {
+border-top:#34DDFF 3px solid;
+}
+::selection {background:#34DDFF;color:#fff;}
+
+
+.cameraContents .camera_caption span {
+border-bottom: 5px solid #34DDFF;
+}
+
+.accordion h3.active,.toggle h3.active,.accordion h3:hover,.toggle h3:hover {
+	background:#34DDFF;}
+
+.topheader {
+background: #34DDFF url(../img/transpbg.png) no-repeat;}
