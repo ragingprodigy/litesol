@@ -61,4 +61,6 @@ border-bottom: 5px solid #34DDFF;
 	background:#34DDFF;}
 
 .topheader {
-background: #34DDFF url(../img/transpbg.png) no-repeat;}
+background: navy url(../img/transpbg.png) no-repeat;
+/*background: #34DDFF url(../img/transpbg.png) no-repeat;*/
+}
