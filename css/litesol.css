@@ -28,9 +28,11 @@ img.logo { display: block; margin: 10px auto; }
 
 .timelineMinor dt a.open {color: navy;}
 .timelineEvent p { text-align: justify; }
-.timelineMinor dd {width: 90%;}
+.timelineMinor dd {width: 100%;}
 .faqstitle { color: navy;}
 dd ul, .mList ul { list-style-type: square; }
 .mList ul { margin-left: 2em; }
 dd ul > li { text-align: justify; }
 dd h4 {color: #34DDFF; }
+
+ul.list-unstyled { list-style-type: none!important; padding-left: 30px; }
